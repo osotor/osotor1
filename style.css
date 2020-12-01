@@ -1,0 +1,19 @@
+body{
+  color: #FFFDE7
+}
+p{
+  color: black
+}
+a{
+  color:#607D8B 
+}
+
+h1{
+  color:#039BE5
+ }
+.destacado {
+  font-family:'Arial";
+  font-style:"italic";
+  font-size:30px
+  color:#388E3C
+}
